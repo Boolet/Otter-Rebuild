@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: f195c852a73b9427ca77321d2f1bbe4f
-timeCreated: 1519349244
+guid: 0a612f633ac21a14892889fa86e4c830
+timeCreated: 1512606954
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: snowman_0
-    21300002: snowman_1
-    21300004: snowman_2
-    21300006: snowman_3
+    21300000: snowman_head
+    21300002: snowman_scarf
+    21300004: snowman_body
+    21300006: snowman_hat
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -79,57 +79,57 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: snowman_0
+      name: snowman_head
       rect:
         serializedVersion: 2
         x: 152
         y: 918
         width: 573
         height: 576
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50500226, y: 0.032236416}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: snowman_1
+      name: snowman_scarf
       rect:
         serializedVersion: 2
         x: 939
         y: 904
         width: 589
         height: 444
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50973266, y: 0.8679705}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: snowman_2
+      name: snowman_body
       rect:
         serializedVersion: 2
         x: 75
         y: 51
         width: 737
         height: 709
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50777817, y: 0.031043328}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: snowman_3
+      name: snowman_hat
       rect:
         serializedVersion: 2
         x: 1068
         y: 292
         width: 331
         height: 305
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.64721125, y: 0.23686473}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
